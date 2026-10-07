@@ -44,5 +44,5 @@ do que texto longo copiado. Resposta que contradiz o seu próprio Dockerfile val
 9. Código de conclusão impresso pelo verificador:
 
 ```
-(cole aqui)
+VIASERRA-26174961-7E2F10F3
 ```
